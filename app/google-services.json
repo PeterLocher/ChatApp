@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044877594297",
+    "project_id": "chatapp-13721",
+    "storage_bucket": "chatapp-13721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044877594297:android:9b1031bf2224ea5b89d568",
+        "android_client_info": {
+          "package_name": "com.peterlocher.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044877594297-7g76d8ogi9e4li9gr7373us8hl4ljg8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeeFUIWuhHztNhXhDG76dy-klxixmwWoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044877594297-7g76d8ogi9e4li9gr7373us8hl4ljg8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
