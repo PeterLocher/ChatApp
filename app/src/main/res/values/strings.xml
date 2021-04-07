@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="tag_firebase">FIREBASE</string>
+    <string name="chatfeed_collection_name">chatfeed</string>
+    <string name="key_id">id</string>
+    <string name="key_user">user</string>
+    <string name="key_message">message</string>
+    <string name="key_time">time</string>
+    <string name="default_user_name">user</string>
+</resources>
