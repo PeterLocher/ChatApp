@@ -17,7 +17,7 @@ class TextMessageView : LinearLayout {
     }
 
     enum class Side { LEFT, RIGHT }
-    var side: Side = Side.LEFT;
+    var side: Side = Side.LEFT
 
     /*  Shifts MessageView to the right side of the screen
     *   Styles it as an outgoing message
